@@ -1,6 +1,6 @@
 # Sdd Section 1 Coures
-Thisn repositoy contains somme simples for cours,
-for example, this shall inlude"
+Thisn repository contains somme samples for course.
+for example, this shall inlude:
 .Markdown
 .ASCIIdO
 .Word Documentation
